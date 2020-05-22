@@ -60,7 +60,7 @@ Identidade visual<br><br>
 </h1>
 
 <p align="justify">
-Desde quando comecei a escrever poesia, em meados de 2012, venho adquirido uma facilidade muito grande para lidar com as palavras. Gosto muito de fazer trocadilhos, explorar neologismos e brincar com figuras de linguagem. As palavras vêm até mim naturalmente, sem que eu precise ficar muito tempo tentando idealizar algo. E foi assim que surgiu a ideia do nome "HáLugar", que remete justamente ao propósito do aplicativo. Uma vez com o nome criado, como também tenho experiência nas Artes Visuais, não foi muito difícil de criar a identidade visual, como elementos, seleção de cores etc. Neste quesito, sou um adepto do minimalismo, ou seja, me preocupo em fazer uso de poucos recursos fundamentais como base de expressão.
+Desde quando comecei a escrever <a href="https://github.com/DanielBrito/no-ritmo-de-algo">poesia</a>, em meados de 2012, venho adquirido uma facilidade muito grande para lidar com as palavras. Gosto muito de fazer trocadilhos, explorar neologismos e brincar com figuras de linguagem. As palavras vêm até mim naturalmente, sem que eu precise ficar muito tempo tentando idealizar algo. E foi assim que surgiu a ideia do nome "HáLugar", que remete justamente ao propósito do aplicativo. Uma vez com o nome criado, como também tenho experiência nas Artes Visuais, não foi muito difícil de criar a identidade visual, como elementos, seleção de cores etc. Neste quesito, sou um adepto do minimalismo, ou seja, me preocupo em fazer uso de poucos recursos fundamentais como base de expressão.
 </p>
 
 <br>
