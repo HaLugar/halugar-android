@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight: bold;">
-    A procura de um lugar? <br>
+    À procura de um lugar? <br>
     HáLugar chegou para te ajudar!<br><br>
     <img alt="HáLugar app" src="Apresentacao/app.jpg" width="400px" style="border-radius: 20px;" />
     <br>
