@@ -1,15 +1,15 @@
 <h1 align="center" style="font-weight: bold;">
     À procura de um lugar? <br>
     HáLugar chegou para te ajudar!<br><br>
-    <img alt="HáLugar app" src="Apresentacao/app.jpg" width="400px" style="border-radius: 20px;" />
+    <img alt="HáLugar app" src="Apresentacao/logo.jpg" width="400px" style="border-radius: 20px;" />
     <br>
-    <a href="https://www.instagram.com/ha_lugar/">
+    <a style="text-decoration: none;" href="https://www.instagram.com/ha_lugar/">
     <img alt="HáLugar app" src="https://img.shields.io/badge/Instagram-Follow-ff69b4" height="20px"/>
     </a>
-    <a href="https://facebook.com/app.halugar">
+    <a style="text-decoration: none;" href="https://facebook.com/app.halugar">
     <img alt="HáLugar app" src="https://img.shields.io/badge/Facebook-Like-blue" height="20px" />
     </a>
-    <a href="https://play.google.com/store/apps/details?id=br.ufc.crateus.halugar">
+    <a style="text-decoration: none;" href="https://play.google.com/store/apps/details?id=br.ufc.crateus.halugar">
     <img alt="HáLugar app" src="https://img.shields.io/badge/Google%20Play-Download-blueviolet" height="20px" />
     </a>    
 </h1>
@@ -17,6 +17,29 @@
 <p align="center">
 HáLugar é voltado para estudantes que desejam compartilhar moradia, propondo possibilitar uma maior facilidade para que eles anunciem ou encontrem um lugar para morar. Por meio do aplicativo, eles poderão pesquisar quais as opções de moradia que lhes oferecem o melhor custo-benefício, ou seja, que possuem o preço de aluguel mais acessível, ou que são mais próximas do campus, do centro comercial, do ponto de ônibus e tudo mais que lhes for conveniente.
 </p>
+
+<br>
+
+<h1 align="center" style="font-weight: bold;">
+Principais funcionalidades<br><br>
+<img alt="HáLugar app" src="Apresentacao/app.jpg" width="400px" style="border-radius: 20px;" />
+</h1>
+
+<ul align="justify">
+<li> Mostrar prévia do anúncio (imagem principal, cidade, estado, bairro e preço mensal do aluguel) para usuários cadastrados ou não.</li><br>
+
+<li> Anunciar imóveis para alugar (com descrição e imagens).</li><br>
+
+<li> Manter lista de anúncios favoritos, permitindo ordenar por preço.</li><br>
+
+<li> Pesquisa personalizada (palavra-chave, intervalo de preço, bairro, cidade, estado, quantidade de vagas e raio de distância a partir da localização do usuário), permitindo ordenar por preço.</li><br>
+
+<li> Através da localização, visualizar anúncios que estão nas proximidades através do mapa.</li><br>
+
+<li> Contatar anunciante via email ou número de telefone.</li><br>
+
+<li> Reportar anúncio que vai contra os princípios do aplicativo.
+<ul>
 
 <br>
 
@@ -32,7 +55,7 @@ A ideia da criação do HáLugar foi motivada pela experiência que tive ao me m
 <br>
 
 <h1 align="center" style="font-weight: bold;">
-Identidade Visual<br><br>
+Identidade visual<br><br>
 <img alt="HáLugar app" src="Apresentacao/identidade_visual.png" width="500px" style="border-radius: 20px;" />
 </h1>
 
@@ -71,5 +94,4 @@ Mídia<br><br>
 </h1>
 
 <p align="justify" style="font-style: italic">
-"Esse aplicativo foi desenvolvido pelo aluno Daniel Brito, do curso de Ciência da Computação da UFC – Campus Crateús, durante as disciplinas de Desenvolvimento de Software para Web e Desenvolvimento de Software para Dispositivos Móveis, ministradas pelo professor Francisco Anderson de Almada Gomes."
-</p>
+"Esse aplicativo foi desenvolvido pelo aluno Daniel Brito, do curso de Ciência da Computação da UFC – Campus Crateús, durante as disciplinas de Desenvolvimento de Software para Web e Desenvolvimento de Software para Dispositivos Móveis, ministradas pelo professor Francisco Anderson de Almada Gomes." <a style="font-style: normal" href="https://portalsertoes.com/2020/02/estudante-da-ufc-de-crateus-desenvolve-aplicativo-para-quem-deseja-compartilhar-moradia.html">(Matéria completa no Portal Sertões)</a>
