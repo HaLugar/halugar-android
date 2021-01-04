@@ -82,7 +82,7 @@ Para as pessoas interessadas no processo de desenvolvimento, selecionei algumas 
 
 :art: Ícones: [Krita](https://krita.org/en/) e [Inkscape](https://inkscape.org/)
 
-:package: Dependências: [Google Maps](https://github.com/googlemaps/android-samples), [Dexter](https://github.com/Karumi/Dexter), [PhotoView](https://github.com/chrisbanes/PhotoView), [Compressor](https://github.com/zetbaitsu/Compressor)
+:package: Dependências: [Google Maps](https://github.com/googlemaps/android-samples), [Dexter](https://github.com/Karumi/Dexter), [PhotoView](https://github.com/chrisbanes/PhotoView), [Glide](https://github.com/bumptech/glide), [Compressor](https://github.com/zetbaitsu/Compressor)
 
 :earth_americas: API: [Nominatim](https://nominatim.openstreetmap.org/)
 
