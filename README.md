@@ -90,8 +90,8 @@ Para as pessoas interessadas no processo de desenvolvimento, selecionei algumas 
 
 <h1 align="center" style="font-weight: bold;">
 Mídia<br><br>
-<img alt="HáLugar app" src="https://danielbrito.github.io/assets/img/halugar_portal_sertoes_240220.jpg" width="500px" style="border-radius: 20px;" />
+<img alt="HáLugar app" src="https://danielbrito.github.io/assets/img/midia/halugar_portal_sertoes_240220.jpg" width="500px" style="border-radius: 20px;" />
 </h1>
 
 <p align="justify" style="font-style: italic">
-"Esse aplicativo foi desenvolvido pelo aluno Daniel Brito, do curso de Ciência da Computação da UFC – Campus Crateús, durante as disciplinas de Desenvolvimento de Software para Web e Desenvolvimento de Software para Dispositivos Móveis, ministradas pelo professor Francisco Anderson de Almada Gomes." <a style="font-style: normal" href="https://portalsertoes.com/2020/02/estudante-da-ufc-de-crateus-desenvolve-aplicativo-para-quem-deseja-compartilhar-moradia.html">(Matéria completa no Portal Sertões)</a>
+"Esse aplicativo foi desenvolvido pelo aluno Daniel Brito, do curso de Ciência da Computação da UFC – Campus Crateús, durante as disciplinas de Desenvolvimento de Software para Web e Desenvolvimento de Software para Dispositivos Móveis, ministradas pelo professor Francisco Anderson de Almada Gomes." <a style="font-style: normal" href="https://www.portalsertoes.com/2020/02/estudante-da-ufc-de-crateus-desenvolve.html">(Matéria completa no Portal Sertões)</a>
