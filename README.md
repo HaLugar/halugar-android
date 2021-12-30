@@ -90,7 +90,7 @@ Para as pessoas interessadas no processo de desenvolvimento, selecionei algumas 
 
 <h1 align="center" style="font-weight: bold;">
 Mídia<br><br>
-<img alt="HáLugar app" src="https://danielbrito.github.io/assets/img/midia/halugar_portal_sertoes_240220.jpg" width="500px" style="border-radius: 20px;" />
+<img alt="HáLugar app" src="https://danielbrito.github.io/assets/images/media/halugar_portal_sertoes_240220.webp" width="500px" style="border-radius: 20px;" />
 </h1>
 
 <p align="justify" style="font-style: italic">
