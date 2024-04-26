@@ -4,13 +4,13 @@
     <img alt="HáLugar app" src="Apresentacao/logo.jpg" width="400px" style="border-radius: 20px;" />
     <br>
     <a style="text-decoration: none;" href="https://www.instagram.com/ha_lugar/">
-    <img alt="HáLugar app" src="https://img.shields.io/badge/Instagram-Follow-ff69b4" height="20px"/>
+    <img alt="HáLugar app" src="https://img.shields.io/badge/Seguir-Instagram?logo=instagram&logoColor=%23fff&label=Instagram&color=%23E4405F" height="20px"/>
     </a>
     <a style="text-decoration: none;" href="https://facebook.com/app.halugar">
-    <img alt="HáLugar app" src="https://img.shields.io/badge/Facebook-Like-blue" height="20px" />
+    <img alt="HáLugar app" src="https://img.shields.io/badge/Curtir-Facebook?logo=facebook&label=Facebook&color=%230866FF" height="20px" />
     </a>
-    <a style="text-decoration: none;" href="https://play.google.com/store/apps/details?id=br.ufc.crateus.halugar">
-    <img alt="HáLugar app" src="https://img.shields.io/badge/Google%20Play-Download-blueviolet" height="20px" />
+    <a style="text-decoration: none;" href="https://youtu.be/9wHZYrn7aEE">
+    <img alt="HáLugar app" src="https://img.shields.io/badge/Pr%C3%A9via-YouTube?logo=youtube&label=YouTube&color=%23FF0000" height="20px" />
     </a>    
 </h1>
 
